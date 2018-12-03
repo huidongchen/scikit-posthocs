@@ -4,7 +4,7 @@ from os.path import join, dirname
 setup(name='scikit-posthocs',
       version='0.4.0',
       description='Statistical post-hoc analysis and outlier detection algorithms',
-      long_description=open(join(dirname(__file__), 'DESCRIPTION.rst')).read(),
+      long_description='test for bioconda',
       url='http://github.com/maximtrp/scikit-posthocs',
       author='Maksim Terpilowski',
       author_email='maximtrp@gmail.com',
